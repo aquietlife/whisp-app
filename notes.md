@@ -1,0 +1,3 @@
+# Loading expo
+
+`expo start`
